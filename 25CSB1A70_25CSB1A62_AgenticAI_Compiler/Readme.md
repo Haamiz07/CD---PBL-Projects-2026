@@ -1,8 +1,10 @@
 # AGentic_C 2.0: A Secure and Intelligent Multi-Agent AI Compiler for High-Frequency Trading and Safety-Critical C/C++ Systems
 
-Course: Compiler Design — Project Based Lab (2026)
-Submitted to : Prof. E. Suresh Babu, Dept. of CSE, NIT Warangal
-Submitted by : Haamiz Suhail Hakeem (25CSB1A70) & Shrot Amish Parekh (25CSB1A62)
+Course: Compiler Design — Project Based Lab (2026). 
+
+Submitted to : Prof. E. Suresh Babu, Dept. of CSE, NIT Warangal. 
+
+Submitted by : Haamiz Suhail Hakeem (25CSB1A70) & Shrot Amish Parekh (25CSB1A62). 
 
 File contents submitted via link in google drive:
 
