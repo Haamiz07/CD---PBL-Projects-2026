@@ -1,4 +1,4 @@
-AGentic_C 2.0: A Secure and Intelligent Multi-Agent AI Compiler for High-Frequency Trading and Safety-Critical C/C++ Systems
+# AGentic_C 2.0: A Secure and Intelligent Multi-Agent AI Compiler for High-Frequency Trading and Safety-Critical C/C++ Systems
 
 Course: Compiler Design — Project Based Lab (2026)
 Submitted to : Prof. E. Suresh Babu, Dept. of CSE, NIT Warangal
